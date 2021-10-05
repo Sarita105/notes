@@ -1,2 +1,2 @@
 # notes
-implementation of notes
+implementation of notes using React js
